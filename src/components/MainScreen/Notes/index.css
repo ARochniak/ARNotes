@@ -1,0 +1,14 @@
+.but {
+	background-color: #27CCC0;
+	width: 35%;
+}
+
+.isActive::before {
+	content: " ";
+	position: absolute;
+	left: -35px;
+	display: block;
+	height: 100%;
+	width: 1px;
+	border-left: 5px solid red;
+}

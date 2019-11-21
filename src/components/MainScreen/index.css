@@ -1,0 +1,16 @@
+.note_comment {
+  border: 2px solid #F2F2F2;
+  box-shadow: 0 0 4px rgba(0,0,0,0.5);
+}
+.note_comment h2 {
+	color: #565A69;
+}
+.note_comment:first-child {
+  margin-right: 20px;
+  padding: 30px 20px 20px 30px;
+  min-height: 540px;
+}
+.note_comment:last-child {
+  padding: 20px;
+  margin-right: 20px;
+}
