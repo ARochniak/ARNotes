@@ -28,7 +28,8 @@ const Notes: React.FC = (props: any) => {
         if ( (e.target as HTMLButtonElement).tagName !== "BUTTON") return;
         let key = ((e.target as HTMLButtonElement).closest("LI") as HTMLLIElement).dataset.key;
         // if comments belong to a note that is removing - clear comments
-        if (key === props.activeNote) 
+        console.log(+key === +props.activeNote);
+        if (+key === +props.activeNote)
             props.setActiveNote(-1);
         // change acive note index  
         else if (props.activeNote !== -1 && key < props.activeNote) 

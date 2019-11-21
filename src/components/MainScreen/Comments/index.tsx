@@ -1,7 +1,5 @@
 import React, { useRef, KeyboardEvent, useState } from "react";
 
-import reactCSS from 'reactcss';
-
 import { GithubPicker } from 'react-color';
 
 import { connect } from "react-redux";

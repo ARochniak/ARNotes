@@ -29,10 +29,8 @@ export const loadState = () => {
 export const saveState = (state: IStore) => {
   try {
     const serializedState = JSON.stringify(state);
-    localStorage.setItem('state', serializedState);
-  } catch {
-    // ignore write errors
-  }
+    localStorage.setItem("state", serializedState);
+  } catch {}
 };
 
 const initialState: IStore = loadState() || {
