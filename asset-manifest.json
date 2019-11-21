@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ARNotes/static/css/main.a1ce1f87.chunk.css",
+    "main.js": "/ARNotes/static/js/main.c4e0a905.chunk.js",
+    "main.js.map": "/ARNotes/static/js/main.c4e0a905.chunk.js.map",
+    "runtime-main.js": "/ARNotes/static/js/runtime-main.51f8a60c.js",
+    "runtime-main.js.map": "/ARNotes/static/js/runtime-main.51f8a60c.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/ARNotes/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.bb6e1e7b.chunk.js": "/ARNotes/static/js/2.bb6e1e7b.chunk.js",
+    "static/js/2.bb6e1e7b.chunk.js.map": "/ARNotes/static/js/2.bb6e1e7b.chunk.js.map",
+    "index.html": "/ARNotes/index.html",
+    "precache-manifest.bd26853a58d60443154139f5dcff1d23.js": "/ARNotes/precache-manifest.bd26853a58d60443154139f5dcff1d23.js",
+    "service-worker.js": "/ARNotes/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/ARNotes/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.a1ce1f87.chunk.css.map": "/ARNotes/static/css/main.a1ce1f87.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51f8a60c.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.bb6e1e7b.chunk.js",
+    "static/css/main.a1ce1f87.chunk.css",
+    "static/js/main.c4e0a905.chunk.js"
+  ]
+}
