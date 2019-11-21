@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1ec2e42305a24250ad56607cae2c980",
+    "revision": "8e1a8be7e521b22d66064cdb3a90f010",
     "url": "/ARNotes/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ARNotes/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "5a5b83a807684dacea07",
+    "revision": "c4ca377f98b554c296aa",
     "url": "/ARNotes/static/css/main.a1ce1f87.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ARNotes/static/js/2.bb6e1e7b.chunk.js"
   },
   {
-    "revision": "5a5b83a807684dacea07",
-    "url": "/ARNotes/static/js/main.c4e0a905.chunk.js"
+    "revision": "c4ca377f98b554c296aa",
+    "url": "/ARNotes/static/js/main.214b650f.chunk.js"
   },
   {
     "revision": "b90b3321a3b72d517aae",
