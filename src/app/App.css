@@ -1,7 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 #root {
-	font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+.App {
+  display: flex;
+}
+.sidebar {
+  background-color: #2b2f3e;
+  color: white;
+  min-height: 100vh;
+  padding: 2.5vw 0 0 2.5vw;
+  width: 20%;
+}
+.sidebar h6 {
+  color: #808080;
+}
+.main {
+  width: 80%;
+  height: 100vh;
+  overflow: scroll;
 }
 ul {
   list-style: none;
@@ -9,10 +27,35 @@ ul {
 }
 
 @media screen and (max-width: 1100px) {
-	.sidebar {
-		padding: 1vw 0 0 1vw !important;
-	}
-	.sidebar h3, h6 {
-		font-size: 0.9em;
-	}
+  .sidebar {
+    padding: 1vw 0 0 1vw !important;
+  }
+  .sidebar h3,
+  h6 {
+    font-size: 0.9em;
+  }
+}
+
+@media (orientation: portrait) {
+  .App {
+    flex-direction: column;
+    height: 100vh;
+  }
+  .sidebar {
+    min-height: auto;
+    width: 100%;
+  }
+  .main {
+    width: 100%;
+    height: auto;
+  }
+  .note_comment {
+    margin: 2vw !important;
+  }
+  .notes_cont {
+    padding: 0;
+  }
+  .note_comment:first-child {
+    min-height: auto;
+  }
 }

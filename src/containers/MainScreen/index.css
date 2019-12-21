@@ -1,9 +1,13 @@
+.notes_cont {
+  padding: 30px 0 30px 30px;
+  align-items: flex-start;
+}
 .note_comment {
-  border: 2px solid #F2F2F2;
-  box-shadow: 0 0 4px rgba(0,0,0,0.5);
+  border: 2px solid #f2f2f2;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
 }
 .note_comment h2 {
-	color: #565A69;
+  color: #565a69;
 }
 .note_comment:first-child {
   margin-right: 20px;
