@@ -45,6 +45,10 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.1.1",
+    "prettier": "^1.19.1",
+    "tslint": "^5.20.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-eslint-rules": "^5.4.0"
   }
 }
