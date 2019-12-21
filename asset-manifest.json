@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ARNotes/static/css/main.a1ce1f87.chunk.css",
-    "main.js": "/ARNotes/static/js/main.4b14debd.chunk.js",
-    "main.js.map": "/ARNotes/static/js/main.4b14debd.chunk.js.map",
+    "main.css": "/ARNotes/static/css/main.67d7fbba.chunk.css",
+    "main.js": "/ARNotes/static/js/main.eea9e990.chunk.js",
+    "main.js.map": "/ARNotes/static/js/main.eea9e990.chunk.js.map",
     "runtime-main.js": "/ARNotes/static/js/runtime-main.51f8a60c.js",
     "runtime-main.js.map": "/ARNotes/static/js/runtime-main.51f8a60c.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/ARNotes/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.0c9b9d53.chunk.js": "/ARNotes/static/js/2.0c9b9d53.chunk.js",
-    "static/js/2.0c9b9d53.chunk.js.map": "/ARNotes/static/js/2.0c9b9d53.chunk.js.map",
+    "static/js/2.d8056935.chunk.js": "/ARNotes/static/js/2.d8056935.chunk.js",
+    "static/js/2.d8056935.chunk.js.map": "/ARNotes/static/js/2.d8056935.chunk.js.map",
     "index.html": "/ARNotes/index.html",
-    "precache-manifest.559f72caea1b881673b5fcf99b66857c.js": "/ARNotes/precache-manifest.559f72caea1b881673b5fcf99b66857c.js",
+    "precache-manifest.4ebf53c852ed345d3c83b5058492f163.js": "/ARNotes/precache-manifest.4ebf53c852ed345d3c83b5058492f163.js",
     "service-worker.js": "/ARNotes/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/ARNotes/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.a1ce1f87.chunk.css.map": "/ARNotes/static/css/main.a1ce1f87.chunk.css.map"
+    "static/css/main.67d7fbba.chunk.css.map": "/ARNotes/static/css/main.67d7fbba.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.51f8a60c.js",
     "static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.0c9b9d53.chunk.js",
-    "static/css/main.a1ce1f87.chunk.css",
-    "static/js/main.4b14debd.chunk.js"
+    "static/js/2.d8056935.chunk.js",
+    "static/css/main.67d7fbba.chunk.css",
+    "static/js/main.eea9e990.chunk.js"
   ]
 }
